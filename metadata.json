@@ -1,0 +1,6 @@
+{
+  "name": "NO EXCUSES",
+  "description": "AI-powered personal discipline command center and 3-habit tracker. You promised yourself. Now prove it.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
